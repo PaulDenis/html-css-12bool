@@ -1,0 +1,7 @@
+.col-6 > .container {
+    padding: 5px;
+}
+
+.nested {
+    padding: 0 5px;
+}
